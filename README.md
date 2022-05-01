@@ -3,7 +3,7 @@ Ex0 of the Java OOP course
 
 
 
-# File description
+## File description
 
 - Book.java - contains the Book object implementation
 - Patron.java - contains the Patron object implementation
@@ -11,7 +11,7 @@ Ex0 of the Java OOP course
 ____________________
 
 
-# Design
+## Design
 
 Each of the three objects Book, Patron and Library are implementated in different classes. The library
 class uses the two classes of Book and Patron to add books, register patrons, borrow books to them and
@@ -20,7 +20,7 @@ ____________________
 
 
 
-# Implementation details
+## Implementation details
 
 I used arrays to store information about the books, patrons, max borrowing limits etc..
 
